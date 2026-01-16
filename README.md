@@ -1,4 +1,3 @@
-Description of the data and file structure
 Between November 2012 and April 2013, woody plants at seven sites of Cerrado sensu stricto were searched for ant-plant interactions. In each locality, 5 transects of 200 m were established, at least 1 km apart from one another. Transects were divided into 20 plots of 10 m length and data were collected in 10 alternate plots. Each transect was characterized by its climatic, vegetational and resource variables. For Single Nucleotide Polymorphisms (SNPs) genotyping, we selected *Camponotus crassus *specimens from samples collected during fieldwork. For data collection details, please see Material and Methods.
 
 Files and variables
@@ -23,4 +22,8 @@ Description: 186 SNPs for 143 individuals of C. crassus.
 File: code-reviewed.R
 Description: Code used to run the analyses described in Material and Methods.
 
+File: Sites_distance.pdf
+Description: Geographical distance (in Kilometers) between sampling sites.
 
+File: Sample_size.pdf
+Description: Number of Camponotus crassus workers sampled by plot.
